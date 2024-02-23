@@ -1,0 +1,192 @@
+body{
+    background-color: #ebf0e7;
+}
+.titlebox{
+    height: 45px;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.usertitle{
+    float: right;
+    margin: 10px;
+    font-size: 15px;
+    width: 200px;
+    color: #000000;
+}
+.usertitle a{
+    color: black;
+    text-decoration:none
+}
+.usertitle a svg{
+    width: 15px;
+    height: 15px;
+}
+.titlecenter{
+    float: left;
+    text-align:center ;
+    width: 200px;
+    font-size: 26px;
+    font-weight: 400;
+    margin:0;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    background-color: #002140;
+    color: #FFFFFF;
+    box-shadow: 2px 0 6px rgb(0 21 41 );
+}
+.titlecenter svg{
+    width: 25px;
+    height:25px;
+}
+.navbar {
+    width: 70%;
+    background-color: #FFFFFF;
+}
+.navbar a {
+    float: left;
+    width: auto;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+.navbar a svg{
+    width: 18px;
+    height: 18px;
+}
+.navbar a:hover{
+    border-bottom: 4px solid #67c4d6;
+    color: #67c4d6;
+}
+.leftbox{
+    float:left;
+    width: 16%;
+    height:500px;
+    background-color: #002140;
+    padding:20px ;
+    box-sizing: border-box;
+}
+.leftbox select{
+    width: 150px;
+    height: 30px;
+    color: #888888;
+    line-height: 30px!important;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 0 35px 0 17px;
+    border: 2px solid #FFFFFF;
+    background: 0 0;
+    box-sizing: border-box;
+}
+.leftbox input{
+    width: 50px;
+    height: 30px;
+    color: #888888;
+    line-height: 30px!important;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 0 35px 0 17px;
+    border: 2px solid #FFFFFF;
+    background: 0 0;
+    box-sizing: border-box;
+}
+.search{
+    margin-left: 100px;
+}
+#value{
+    width: 160px;
+    height: 30px;
+    line-height: 30px!important;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 0 35px 0 17px;
+    border: 2px solid #FFFFFF;
+    background: 0 0;
+    box-sizing: border-box;
+}
+.leftbox a{
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration:none
+}
+.mainBox{
+    width: 70%;
+    float: left;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+}
+.maintitle{
+    height: 40px;
+    font-size: 18px;
+    border-bottom:0.5px solid #EBF0E7;
+}
+.maintitle svg{
+    width: 18px;
+    height: 18px;
+}
+.maintable{
+    margin: 10px;
+    padding: 5px;
+    font-weight: 400;
+    color: #747474;
+}
+.rightbox{
+    float:right;
+    width: 22%;
+    background-color: white;
+    padding:20px ;
+    box-sizing: border-box;
+}
+.righttitle{
+    height: 40px;
+    font-size: 15px;
+    border-bottom:0.5px solid #EBF0E7;
+}
+.righttitle svg{
+    width: 15px;
+    height: 15px;
+}
+.righttable{
+    margin: 10px;
+    padding: 5px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #747474;
+}
+.mainbox{
+    float:left;
+    width: 55%;
+    background-color: white;
+    padding:20px ;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px #888888;
+}
+.maintitle{
+    height: 40px;
+    font-size: 18px;
+    border-bottom:0.5px solid #EBF0E7;
+}
+.maintitle svg{
+    width: 18px;
+    height: 18px;
+}
+.maintable{
+    margin: 10px;
+    padding: 5px;
+    font-weight: 400;
+    color: #747474;
+}
+.rightbox{
+    float:right;
+    width: 26%;
+    background-color: white;
+    padding:20px ;
+    box-sizing: border-box;
+}
+.righttitle{
+    height: 40px;
+    font-size: 15px;
+    border-bottom:0.5px solid #EBF0E7;
+}

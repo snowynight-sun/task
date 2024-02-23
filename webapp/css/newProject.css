@@ -1,0 +1,35 @@
+.mainBox{
+    width: 70%;
+    float: left;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+}
+#title,#desc,#s_t,#e_t{
+    width: 251px;
+    height: 32px;
+    border: 1.5px solid  #003140;
+    border-radius: 8px;
+}
+.rightBox{
+    width: 10%;
+    float: right;
+}
+.rightBox img{
+    width: 160px;
+    position:absolute;
+    bottom:25px;
+    right:20px
+}
+.btn_sub{
+    width: 80px;
+    height: 40px;
+    background-color:  #003f52;
+    border: 1px solid  #003f52;
+    border-radius: 5px;
+    padding-left: 10px ;
+    color:white;
+    font-family: 宋体;
+}
+.btn_sub:hover{
+    filter: brightness(1.1);
+}

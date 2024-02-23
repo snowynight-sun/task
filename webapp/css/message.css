@@ -1,0 +1,60 @@
+.mainBox{
+    width: 70%;
+    float: left;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+}
+.maintitle{
+    height: 40px;
+    font-size: 18px;
+    border-bottom:0.5px solid #EBF0E7;
+    padding-left: 30px;
+    margin-top:20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.maintitle svg{
+    width: 18px;
+    height: 18px;
+}
+.maincontent{
+    margin: 10px;
+    padding: 5px;
+    font-weight: 400;
+    color: #000000;
+}
+.maincontent a{
+    color: #000000;
+}
+.maincontent a:hover{
+    color: #0000ff;
+}
+.maincontent svg{
+    width: 15px;
+    height: 15px;
+}
+.message{
+    margin: 20px;
+    padding: 10px;
+    border: 0.5px solid #D5D5D5;
+}
+.message a{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px 10px;
+    border:1px solid #747474;
+    border-radius: 5px;
+    color: #000000;
+}
+.mes{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px 10px;
+    border:1px solid #747474;
+    border-radius: 5px;
+    color: #000000;
+    /*border: 3px solid #b62c2c;*/
+}
+.message a:hover{
+    color: #0fa219;
+}

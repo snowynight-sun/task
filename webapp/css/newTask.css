@@ -1,0 +1,66 @@
+.leftbox{
+    float:left;
+    width: 16%;
+    height:500px;
+    background-color: #002140;
+    padding:20px ;
+    box-sizing: border-box;
+}
+.leftbox div{
+    margin-top: 30px;
+    border-bottom: 2px solid #FFFFFF;
+}
+.leftbox1{
+    text-align: center;
+    width:150px;
+    height: 40px;
+}
+.leftbox a{
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration:none
+}
+.leftbox1 a svg{
+    width: 20px;
+    height: 20px;
+}
+.leftbox1:hover{
+    font-size: 25px;
+}
+.mainBox{
+    width: 80%;
+    height: 500px;
+    float: left;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 5px #888888;
+}
+#title,#desc,#s_t,#e_t{
+    width: 251px;
+    height: 32px;
+    border: 1.5px solid  #003140;
+    border-radius: 8px;
+}
+.rightBox{
+    width: 10%;
+    float: right;
+}
+.rightBox img{
+    width: 160px;
+    position:absolute;
+    bottom:25px;
+    right:20px
+}
+.btn_sub{
+    width: 80px;
+    height: 40px;
+    background-color:  #003f52;
+    border: 1px solid  #003f52;
+    border-radius: 5px;
+    padding-left: 10px ;
+    color:white;
+    font-family: 宋体;
+}
+.btn_sub:hover{
+    filter: brightness(1.1);
+}
